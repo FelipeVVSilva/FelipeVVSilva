@@ -3,7 +3,6 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-veiga-929835211/)
 
 ![Veiga's GitHub stats](https://github-readme-stats.vercel.app/api?username=FelipeVVSilva&show_icons=true&theme=highcontrast)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeVVSilva)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tecnologias
 
